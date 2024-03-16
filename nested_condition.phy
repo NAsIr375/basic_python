@@ -1,0 +1,13 @@
+n = input()
+n = int(n)
+
+if n >= 0:
+    if n%2 == 0:
+        print(n,"is positive and Even number")
+    else:
+        print(n,"is positive and Odd number")
+else:
+    if n%2 == 0:
+        print(n,"is negative and Even number")
+    else:
+        print(n,"is negative and Odd number")
