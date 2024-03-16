@@ -3,4 +3,4 @@ b = 6
 
 c = a + b
 print(c)
-type(a)
+type(a) \\ type() used to which type of data
