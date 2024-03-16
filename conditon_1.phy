@@ -1,0 +1,7 @@
+marks = input("Enter your marks: ") #input ব্যবহার করে পাইথনে ইনপুট নিতে হয়
+marks = int(marks)
+
+if marks >= 30:
+    print("Pass.")
+else:
+    print("Fail.")
